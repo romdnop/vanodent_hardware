@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetC5_1 Pin=Q1-2
+Added Pin To Net: NetName=NetL3_1 Pin=Q2-2
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=PWM

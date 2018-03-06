@@ -1,0 +1,11 @@
+Added Component: Designator=U1(SO8-150mil)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=RESET Pin=U1-1
+Added Pin To Net: NetName=LED_MSG Pin=U1-2
+Added Pin To Net: NetName=LED_FS Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=SW_PWR Pin=U1-5
+Added Pin To Net: NetName=SW_MODE Pin=U1-6
+Added Pin To Net: NetName=SDWN Pin=U1-7
+Added Pin To Net: NetName=+5V Pin=U1-8
+Added Member To Class: ClassName=MCU Member=Component U1 AtTiny13A
