@@ -1,0 +1,10 @@
+Added Component: Designator=XP4(HEAD-1/8/2.54)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=SDWN Pin=XP4-1
+Added Pin To Net: NetName=SW_MODE Pin=XP4-2
+Added Pin To Net: NetName=SW_PWR Pin=XP4-3
+Added Pin To Net: NetName=LED_FS Pin=XP4-4
+Added Pin To Net: NetName=LED_MSG Pin=XP4-5
+Added Pin To Net: NetName=+5V Pin=XP4-6
+Added Pin To Net: NetName=GND Pin=XP4-8
+Added Member To Class: ClassName=MCU Member=Component XP4 CON_8

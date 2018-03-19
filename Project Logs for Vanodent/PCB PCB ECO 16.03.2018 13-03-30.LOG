@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=VD4 Old Footprint=SMD_0805 New Footprint=DO214-AC
+Change Component Footprint: Designator=VD11 Old Footprint=SMD_0805 New Footprint=DO214-AC
+Added Member To Class: ClassName=Power Member=Component C4 0.47x25V

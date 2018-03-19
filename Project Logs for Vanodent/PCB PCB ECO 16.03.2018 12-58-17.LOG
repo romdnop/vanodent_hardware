@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=NetC3_1 Pin=C3-1
+Removed Pin From Net: NetName=NetC3_2 Pin=C3-2
+Removed Pin From Net: NetName=NetC4_1 Pin=L2-1
+Removed Pin From Net: NetName=NetC4_1 Pin=U2-4
+Removed Pin From Net: NetName=NetC7_1 Pin=VD1-2
+Removed Pin From Net: NetName=NetC7_2 Pin=VD1-3
+Removed Pin From Net: NetName=NetC4_1 Pin=VD5-1
+Change Component Comment : Designator=VD4 Old Comment= New Comment=UF4007
+Change Component Designator: OldDesignator=C4 NewDesignator=C18
+Change Component Description : Designator=U2 Old Description= New Description=Step-Down Converter
+Change component parameters: Designator = "VD4"; Footprint = "SMD_0805"; UniqueID = "\BXIXTFCR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "UF4007"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2"; Footprint = "SO8-150mil"; UniqueID = "\VVBGYQQI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "http://www.st.com/content/st_com/en/products/power-management/ac-dc-converters/high-voltage-converters/viper/viper12a-e.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMicro"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "Viper12-A"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPR-5/2.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.47x25V"; VariantName = "[No Variations]"
+Added Component: Designator=VD11(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "UF4007"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_2 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-2
+Added Pin To Net: NetName=NetC3_1 Pin=C4-2
+Added Pin To Net: NetName=NetC3_1 Pin=L2-1
+Added Pin To Net: NetName=NetC7_2 Pin=VD1-2
+Added Pin To Net: NetName=NetC7_1 Pin=VD1-3
+Added Pin To Net: NetName=NetC3_1 Pin=VD5-1
+Added Pin To Net: NetName=+12V Pin=VD11-2
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC3_2
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetC18_1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=U2-4
+Added Pin To Net: NetName=NetC4_1 Pin=VD11-1
+Added Net: Name=NetC4_1
+Added Member To Class: ClassName=Power Member=Component C18 4.7x25V
+Added Member To Class: ClassName=Power Member=Component VD11 UF4007
