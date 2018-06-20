@@ -1,7 +1,0 @@
-Removed Member From Class: ClassName=PWM Member=XP2
-Added Component: Designator=XP3(HEAD-1/3/2.54)
-Add component. Clean all parameters for all variants
-Added Pin To Net: NetName=+5V Pin=XP3-1
-Added Pin To Net: NetName=NetU4_13 Pin=XP3-2
-Added Pin To Net: NetName=GND Pin=XP3-3
-Added Member To Class: ClassName=PWM Member=Component XP3 CON_3

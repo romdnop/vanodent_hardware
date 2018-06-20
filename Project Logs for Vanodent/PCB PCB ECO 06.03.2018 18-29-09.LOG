@@ -1,6 +1,0 @@
-Added Component: Designator=XP2(HEAD-1/2/2.54)
-Add component. Clean all parameters for all variants
-Added Pin To Net: NetName=NetC11_1 Pin=XP2-1
-Added Pin To Net: NetName=GND Pin=XP2-2
-Added Member To Class: ClassName=Power Member=Component XP2 CON2_0
-Added Member To Class: ClassName=PWM Member=Component XP2 CON_3
